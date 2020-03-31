@@ -2,7 +2,7 @@ import random
 import tkinter as tk
 from tkinter import ttk
 import tkinter.messagebox
-
+#keke
 root = tk.Tk()
 
 """ *** Memory *** """
