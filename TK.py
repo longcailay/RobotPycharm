@@ -3,6 +3,10 @@ import tkinter as tk
 from tkinter import ttk
 import tkinter.messagebox
 #keke
+#da sua tren github master
+
+
+
 root = tk.Tk()
 
 """ *** Memory *** """
