@@ -3,6 +3,7 @@ import tkinter as tk
 from tkinter import ttk
 import tkinter.messagebox
 #keke
+#nhanh1
 root = tk.Tk()
 
 """ *** Memory *** """
